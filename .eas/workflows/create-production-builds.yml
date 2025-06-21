@@ -1,9 +1,9 @@
 name: 🚀 Create Production Builds
 
-on:
-  push:
-    branches:
-      - main
+# on:
+#   push:
+#     branches:
+#       - main
 
 jobs:
   build_android:
